@@ -79,6 +79,3 @@ h1{
 .hide{
   display: none;
 }
-button:focus {
-  outline: 2px solid #000;
-}
